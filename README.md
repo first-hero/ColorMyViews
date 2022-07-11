@@ -1,3 +1,3 @@
 # ColorMyViews
 FWD Udacity
-app/src/main/res/mipmap-hdpi/ic_launcher.webp
+![This is an image](app/src/main/res/mipmap-hdpi/ic_launcher.webp)
