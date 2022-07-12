@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">ColorMyViews</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="button_green">Green</string>
+    <string name="button_red">Red</string>
+    <string name="Reset">Reset</string>
+    <string name="how_to_play">How To Play :-</string>
+
+    <string name="play_info">
+        Click buttons, background and text boxes to change colors or RESET button to reset colors.
+        \n\n Here are some ideas
+        \n\n Use images instead of colors and reveal the images.
+        \n\n You can even create a picture memory game.
+        \n\n Use one image and break it up into sections to reveal over time.
+        \n\n Get rid of the text and buttons and just fill the screen with boxes.
+        \n\n Implement one of Piet Mondrians Paintings
+        \n\n Take the AboutMe app and remake it using ConstraintLayout with a more creative arrangement of information
+        \n\n Style the app to uniquely represent you and your personality.
+        </string>
 </resources>
